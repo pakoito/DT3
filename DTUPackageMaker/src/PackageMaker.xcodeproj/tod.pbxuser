@@ -1,0 +1,191 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = DE56622F0DD8AEAB005363AF /* PackageMaker */;
+		activeTarget = 8DD76F620486A84900D96B5E /* PackageMaker */;
+		breakpoints = (
+		);
+		codeSenseManager = DE5662360DD8AEB6005363AF /* Code sense */;
+		executables = (
+			DE56622F0DD8AEAB005363AF /* PackageMaker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					769,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1157,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309613259;
+			PBXWorkspaceStateSaveDate = 309613259;
+		};
+		perUserProjectItems = {
+			DE5662A10DD8C278005363AF /* PBXTextBookmark */ = DE5662A10DD8C278005363AF /* PBXTextBookmark */;
+			DE5662A30DD8C278005363AF /* PBXTextBookmark */ = DE5662A30DD8C278005363AF /* PBXTextBookmark */;
+			DE8B477B127456E500BD3A24 /* XCBuildMessageTextBookmark */ = DE8B477B127456E500BD3A24 /* XCBuildMessageTextBookmark */;
+			DE8B479212745C1500BD3A24 /* PBXTextBookmark */ = DE8B479212745C1500BD3A24 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DE5662350DD8AEB6005363AF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1071, 3159}}";
+			sepNavSelRange = "{5179, 0}";
+			sepNavVisRange = "{4388, 1343}";
+		};
+	};
+	8DD76F620486A84900D96B5E /* PackageMaker */ = {
+		activeExec = 0;
+		executables = (
+			DE56622F0DD8AEAB005363AF /* PackageMaker */,
+		);
+	};
+	DE56622F0DD8AEAB005363AF /* PackageMaker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+			NO,
+			NO,
+			NO,
+			NO,
+			NO,
+			NO,
+			YES,
+		);
+		argumentStrings = (
+			./test.pack,
+			/Users/tod/Documents/GameProjects/amoeba/trunk/install/data/fonts,
+			/Users/tod/Documents/GameProjects/amoeba/trunk/install/data/levels,
+			/Users/tod/Documents/GameProjects/amoeba/trunk/install/data/localization,
+			/Users/tod/Documents/GameProjects/amoeba/trunk/install/data/materials,
+			/Users/tod/Documents/GameProjects/amoeba/trunk/install/data/sounds,
+			/Users/tod/Documents/GameProjects/amoeba/trunk/install/data/texturesmob,
+			/Users/tod/Documents/GameProjects/carol/trunk/install/data/drac/materialsmob,
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PackageMaker;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	DE5662350DD8AEB6005363AF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DE5662360DD8AEB6005363AF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DE5662A10DD8C278005363AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DE5662A20DD8C278005363AF /* fstream */;
+		name = "fstream: 44";
+		rLen = 7;
+		rLoc = 1670;
+		rType = 0;
+		vrLen = 1900;
+		vrLoc = 430;
+	};
+	DE5662A20DD8C278005363AF /* fstream */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = fstream;
+		path = "/Developer/SDKs/MacOSX10.5.sdk/usr/include/c++/4.0.0/fstream";
+		sourceTree = "<absolute>";
+	};
+	DE5662A30DD8C278005363AF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DE5662A40DD8C278005363AF /* istream */;
+		name = "istream: 475";
+		rLen = 8;
+		rLoc = 16790;
+		rType = 0;
+		vrLen = 1999;
+		vrLoc = 15264;
+	};
+	DE5662A40DD8C278005363AF /* istream */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.h;
+		name = istream;
+		path = "/Developer/SDKs/MacOSX10.5.sdk/usr/include/c++/4.0.0/istream";
+		sourceTree = "<absolute>";
+	};
+	DE8B477B127456E500BD3A24 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "No match for 'operator&' in 'buf & 61440'";
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 188;
+		rType = 1;
+	};
+	DE8B479212745C1500BD3A24 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 193";
+		rLen = 0;
+		rLoc = 5179;
+		rType = 0;
+		vrLen = 1343;
+		vrLoc = 4388;
+	};
+}

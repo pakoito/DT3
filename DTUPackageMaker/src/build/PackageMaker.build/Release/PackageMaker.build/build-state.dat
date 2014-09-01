@@ -1,0 +1,867 @@
+TPackageMaker
+v6
+r1
+cCheck dependencies
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/main.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/adler32.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/adler32.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/compress.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/compress.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/crc32.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/deflate.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzclose.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzclose.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzlib.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzread.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzwrite.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/infback.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/infback.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inffast.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inflate.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inftrees.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/trees.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/uncompr.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/uncompr.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/zutil.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker normal i386
+cGenerateDSYMFile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker.dSYM /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c0000000052826EB400000000000000AA
+t1384279732
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000526D36DC000000000000044C
+t1382889180
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526D36DC00000000000001DB
+t1382889180
+s475
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000526D3700000000000000681C
+t1382889216
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c00000000526D3700000000000006E8B0
+t1382889216
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000526D37000000000000004734
+t1382889216
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000526D3700000000000000FC6C
+t1382889216
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000526D3700000000000000F6A0
+t1382889216
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000526D37000000000000006254
+t1382889216
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000526D3700000000000000E0F8
+t1382889216
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000526D3700000000000000D6DC
+t1382889216
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000526D37000000000000006308
+t1382889216
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000526D37000000000000004050
+t1382889216
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000526D37000000000000008570
+t1382889216
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000526D37000000000000005EA0
+t1382889216
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000526D37000000000000005FAC
+t1382889216
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000526D37000000000000004440
+t1382889216
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000526D3700000000000000AA28
+t1382889216
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000526D37000000000000003E2C
+t1382889216
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000526D37000000000000030A24
+t1382889216
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000526D37000000000000005E54
+t1382889216
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000526D37000000000000006A90
+t1382889216
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000526D370000000000000178AC
+t1382889216
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000526D3700000000000001ADC8
+t1382889216
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000526D3700000000000001028C
+t1382889216
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000526D37000000000000008800
+t1382889216
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000526D37000000000000011090
+t1382889216
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000526D3700000000000000882C
+t1382889216
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000526D370000000000000067AC
+t1382889216
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000526D37000000000000008DEC
+t1382889216
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000526D37000000000000004C08
+t1382889216
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000526D3700000000000000439C
+t1382889216
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000526D37000000000000006768
+t1382889216
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000526D370000000000000172F4
+t1382889216
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+c00000000526D37330000000000000720
+t1382889267
+s1824
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c00000000526D37330000000000001750
+t1382889267
+s5968
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/adler32.c
+c0000000053485E7E00000000000013B8
+t1397251710
+s5048
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/compress.c
+c0000000053485E8400000000000009D8
+t1397251716
+s2520
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.c
+c0000000053485E820000000000003571
+t1397251714
+s13681
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.h
+c0000000053485E820000000000007768
+t1397251714
+s30568
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.c
+c0000000053485E810000000000010998
+t1397251713
+s67992
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.h
+c0000000053485E820000000000003180
+t1397251714
+s12672
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzclose.c
+c0000000053485E8400000000000002A6
+t1397251716
+s678
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzguts.h
+c0000000053485E7D0000000000001245
+t1397251709
+s4677
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c
+c0000000053485E8100000000000036F7
+t1397251713
+s14071
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c
+c0000000053485E82000000000000505E
+t1397251714
+s20574
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c
+c0000000053485E84000000000000390A
+t1397251716
+s14602
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/infback.c
+c0000000053485E7E000000000000585E
+t1397251710
+s22622
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.c
+c0000000053485E84000000000000347F
+t1397251716
+s13439
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.h
+c0000000053485E8400000000000001AB
+t1397251716
+s427
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffixed.h
+c0000000053485E8100000000000018C7
+t1397251713
+s6343
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.c
+c0000000053485E7D000000000000CD8F
+t1397251709
+s52623
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.h
+c0000000053485E7D00000000000018FF
+t1397251709
+s6399
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.c
+c0000000053485E7000000000000035C9
+t1397251696
+s13769
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.h
+c0000000053485E7D0000000000000B70
+t1397251709
+s2928
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.c
+c0000000053485E82000000000000B0BA
+t1397251714
+s45242
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.h
+c0000000053485E840000000000002118
+t1397251716
+s8472
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/uncompr.c
+c0000000053485E7D00000000000007CA
+t1397251709
+s1994
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+c0000000053485E82000000000000343F
+t1397251714
+s13375
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+c0000000053485E8400000000000136CC
+t1397251716
+s79564
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.c
+c0000000053485E810000000000001C91
+t1397251713
+s7313
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.h
+c0000000053485E820000000000001BF1
+t1397251714
+s7153
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/PackageMaker.LinkFileList
+c00000000534C97EE0000000000000986
+t1397528558
+s2438
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/adler32.o
+t1397528558
+s7720
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/compress.o
+t1397528558
+s5036
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/crc32.o
+t1397528558
+s17368
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/deflate.o
+t1397528559
+s36800
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzclose.o
+t1397528559
+s4676
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzlib.o
+t1397528559
+s11940
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzread.o
+t1397528559
+s15408
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzwrite.o
+t1397528559
+s12388
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/infback.o
+t1397528560
+s25924
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inffast.o
+t1397528560
+s12152
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inflate.o
+t1397528560
+s35628
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inftrees.o
+t1397528560
+s8760
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/main.o
+t1397686669
+s602780
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/trees.o
+t1397528560
+s35828
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/uncompr.o
+t1397528560
+s4564
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/zutil.o
+t1397528560
+s4208
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker
+t1397686669
+s159456
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker.dSYM
+t1397528561
+s102
+
+N/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp
+c00000000534F018A000000000000388C
+t1397686666
+s14476
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/adler32.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/compress.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzclose.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/infback.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/uncompr.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.c
+r0
+
+CBuild AST from /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfe0ae90a39ffb841^5b96030b39ffb841^---0#1#1#--18"Check dependencies36"53A0B22D-5271-4A62-BDEE-6B7F429D34B4-
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/adler32.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/adler32.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221358.589633
+e419221358.822343
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/adler32.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/adler32.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/adler32.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/adler32.c178"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/adler32.o 3rdParty/zlib-1.2.5/adler32.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler5b07976ecffcb841^d49ad26ecffcb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/adler32.c0000000000000000^3040"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/adler32.o 3rdParty/zlib-1.2.5/adler32.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/adler32.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/adler32.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/adler32.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/adler32.o36"D812A5F6-EE5E-4E3E-8353-36CA4A7912A7-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/compress.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/compress.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221358.823036
+e419221358.864988
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/compress.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/compress.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/compress.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/compress.c180"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/compress.o 3rdParty/zlib-1.2.5/compress.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler36cad26ecffcb841^5b79dd6ecffcb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/compress.c0000000000000000^3046"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/compress.o 3rdParty/zlib-1.2.5/compress.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/compress.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/compress.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/compress.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/compress.o36"1334C0AD-D224-442B-8E31-733ED5BECE84-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/crc32.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221358.865302
+e419221358.984766
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/crc32.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.c174"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/crc32.o 3rdParty/zlib-1.2.5/crc32.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler459ddd6ecffcb841^0322fc6ecffcb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.c0000000000000000^3028"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/crc32.o 3rdParty/zlib-1.2.5/crc32.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/crc32.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/crc32.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/crc32.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/crc32.o36"619483DE-D3A2-4E63-9FFE-9AA956EF9459-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/deflate.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221358.985104
+e419221359.350998
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/deflate.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.c178"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/deflate.o 3rdParty/zlib-1.2.5/deflate.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilera147fc6ecffcb841^83dc596fcffcb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.c0000000000000000^3040"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/deflate.o 3rdParty/zlib-1.2.5/deflate.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/deflate.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/deflate.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/deflate.o36"362C9FCE-B5B7-46FB-AD4F-BA99610E138F-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzclose.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzclose.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221359.351625
+e419221359.403130
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzclose.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzclose.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzclose.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzguts.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzclose.c178"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzclose.o 3rdParty/zlib-1.2.5/gzclose.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler151c5a6fcffcb841^1137676fcffcb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzclose.c0000000000000000^3040"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzclose.o 3rdParty/zlib-1.2.5/gzclose.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzclose.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzclose.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzclose.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzclose.o36"BE3DCF11-84EA-4DAD-8988-83046CF48BFE-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzlib.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221359.403802
+e419221359.497172
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzlib.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzguts.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+o/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c:184:24: warning: implicit declaration of function 'lseek' is invalid in C99 [-Wimplicit-function-declaration]
+o        state->start = LSEEK(state->fd, 0, SEEK_CUR);
+o                       ^
+o/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c:11:17: note: expanded from macro 'LSEEK'
+o#  define LSEEK lseek
+o                ^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c174"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzlib.o 3rdParty/zlib-1.2.5/gzlib.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilera775676fcffcb841^8c4d7f6fcffcb841^-489"/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c:184:24: warning: implicit declaration of function 'lseek' is invalid in C99 [-Wimplicit-function-declaration]        state->start = LSEEK(state->fd, 0, SEEK_CUR);                       ^/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c:11:17: note: expanded from macro 'LSEEK'#  define LSEEK lseek                ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@58"Implicit declaration of function 'lseek' is invalid in C99-419221359#18446744073709551615#0#1(2@27"Expanded from macro 'LSEEK'-419221359#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@105"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c0000000000000000^10#16#10#16#310#0#21"Apple LLVM 5.0 Notice--1#27"com.apple.dt.IDE.diagnostic3@105"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c0000000000000000^183#23#183#23#5313#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@105"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c0000000000000000^3028"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzlib.o 3rdParty/zlib-1.2.5/gzlib.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzlib.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzlib.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzlib.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzlib.o36"0DBAE1EE-F02F-4F5F-B4D2-3073B37C51CA-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzread.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221359.497536
+e419221359.648223
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzread.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzguts.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+o/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c:31:15: warning: implicit declaration of function 'read' is invalid in C99 [-Wimplicit-function-declaration]
+o        ret = read(state->fd, buf + *have, len - *have);
+o              ^
+o/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c:650:11: warning: implicit declaration of function 'close' is invalid in C99 [-Wimplicit-function-declaration]
+o    ret = close(state->fd);
+o          ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c176"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzread.o 3rdParty/zlib-1.2.5/gzread.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler58747f6fcffcb841^c3f0a56fcffcb841^-553"/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c:31:15: warning: implicit declaration of function 'read' is invalid in C99 [-Wimplicit-function-declaration]        ret = read(state->fd, buf + *have, len - *have);              ^/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c:650:11: warning: implicit declaration of function 'close' is invalid in C99 [-Wimplicit-function-declaration]    ret = close(state->fd);          ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@57"Implicit declaration of function 'read' is invalid in C99-419221359#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@106"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c0000000000000000^30#14#30#14#1028#0#14"Semantic Issue--2@58"Implicit declaration of function 'close' is invalid in C99-419221359#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@106"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c0000000000000000^649#10#649#10#20504#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@106"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c0000000000000000^3034"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzread.o 3rdParty/zlib-1.2.5/gzread.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzread.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzread.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzread.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzread.o36"EA00C86D-BF46-4CA4-9121-87484CA12291-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzwrite.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221359.648553
+e419221359.768659
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzwrite.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzguts.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+o/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c:79:33: warning: implicit declaration of function 'write' is invalid in C99 [-Wimplicit-function-declaration]
+o            if (have && ((got = write(state->fd, state->next, have)) < 0 ||
+o                                ^
+o/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c:528:12: warning: implicit declaration of function 'close' is invalid in C99 [-Wimplicit-function-declaration]
+o    ret += close(state->fd);
+o           ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c178"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzwrite.o 3rdParty/zlib-1.2.5/gzwrite.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler1d1ea66fcffcb841^1b9bd16fcffcb841^-595"/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c:79:33: warning: implicit declaration of function 'write' is invalid in C99 [-Wimplicit-function-declaration]            if (have && ((got = write(state->fd, state->next, have)) < 0 ||                                ^/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c:528:12: warning: implicit declaration of function 'close' is invalid in C99 [-Wimplicit-function-declaration]    ret += close(state->fd);           ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@58"Implicit declaration of function 'write' is invalid in C99-419221359#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@107"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c0000000000000000^78#32#78#32#2603#0#14"Semantic Issue--2@58"Implicit declaration of function 'close' is invalid in C99-419221359#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@107"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c0000000000000000^527#11#527#11#14532#0#14"Semantic Issue--0#0#1#-19%DVTDocumentLocation4@107"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c0000000000000000^3040"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzwrite.o 3rdParty/zlib-1.2.5/gzwrite.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzwrite.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzwrite.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/gzwrite.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzwrite.o36"02EF26AB-5CC1-4ADA-AF11-E2C09EF73163-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/infback.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/infback.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221359.768977
+e419221360.155670
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/infback.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/infback.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/infback.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffixed.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/infback.c178"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/infback.o 3rdParty/zlib-1.2.5/infback.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler28f2c46fcffcb841^e4152870cffcb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/infback.c0000000000000000^3040"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/infback.o 3rdParty/zlib-1.2.5/infback.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/infback.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/infback.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/infback.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/infback.o36"E9EAF65E-1BA5-416F-B493-4FF8FFFACFB7-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inffast.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221360.155956
+e419221360.254343
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inffast.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.c178"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inffast.o 3rdParty/zlib-1.2.5/inffast.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler71052870cffcb841^08054170cffcb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.c0000000000000000^3040"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inffast.o 3rdParty/zlib-1.2.5/inffast.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inffast.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inffast.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inffast.o36"EE2022E4-B902-43CA-A1E1-20CD51823E31-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inflate.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221360.254622
+e419221360.658188
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inflate.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffast.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inffixed.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.c178"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inflate.o 3rdParty/zlib-1.2.5/inflate.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler35444170cffcb841^4d81a870cffcb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.c0000000000000000^3040"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inflate.o 3rdParty/zlib-1.2.5/inflate.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inflate.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inflate.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inflate.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inflate.o36"8FCA516E-627E-4F82-9EA6-2543BD5E8EAB-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inftrees.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221360.659274
+e419221360.739425
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inftrees.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.c180"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inftrees.o 3rdParty/zlib-1.2.5/inftrees.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler44e0a870cffcb841^37a8bd70cffcb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.c0000000000000000^3046"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inftrees.o 3rdParty/zlib-1.2.5/inftrees.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inftrees.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inftrees.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/inftrees.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inftrees.o36"5C164846-02FF-404E-B1C4-4784727DF533-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/main.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s419379467.015263
+e419379469.081386
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/main.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+o/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp:160:25: warning: unused variable 's' [-Wunused-variable]
+o                    int s = ::stat( (f.path + SEP + f.file).c_str(), &buf);
+o                        ^
+o/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp:332:13: warning: unused variable 's' [-Wunused-variable]
+o        int s = ::stat(argv[i], &buf);
+o            ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp156"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/main.o main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler520c040b39ffb841^edd4140d39ffb841^-451"/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp:160:25: warning: unused variable 's' [-Wunused-variable]                    int s = ::stat( (f.path + SEP + f.file).c_str(), &buf);                        ^/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp:332:13: warning: unused variable 's' [-Wunused-variable]        int s = ::stat(argv[i], &buf);            ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@19"Unused variable 's'-419379469#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@86"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp0000000000000000^159#24#159#24#4175#0#19"Unused Entity Issue--2@19"Unused variable 's'-419379469#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp0000000000000000^331#12#331#12#9874#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@86"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp0000000000000000^3108"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/main.o main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/main.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/main.cpp -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/main.o36"73633D53-1A21-4A53-BBA5-FE94AF096769-
+b1460EE4D-C17D-437F-BE6E-CCD5A215D644
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/trees.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221360.739714
+e419221360.968750
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/trees.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/deflate.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.c174"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/trees.o 3rdParty/zlib-1.2.5/trees.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerb075bd70cffcb841^2e01f870cffcb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.c0000000000000000^3028"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/trees.o 3rdParty/zlib-1.2.5/trees.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/trees.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/trees.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/trees.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/trees.o36"60090FC3-141F-49BF-BC88-60437C78A67B-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/uncompr.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/uncompr.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221360.811033
+e419221360.842547
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/uncompr.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/uncompr.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/uncompr.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/uncompr.c178"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/uncompr.o 3rdParty/zlib-1.2.5/uncompr.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerfeb6cf70cffcb841^4cfad770cffcb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/uncompr.c0000000000000000^3040"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/uncompr.o 3rdParty/zlib-1.2.5/uncompr.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/uncompr.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/uncompr.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/uncompr.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/uncompr.o36"2B4B32F2-3C61-48E9-91C2-61EC43C6199C-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CCompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/zutil.o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s419221360.842886
+e419221360.887317
+r1
+xCompileC
+xbuild/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/zutil.o
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.c
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zlib.h
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zconf.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.c174"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/zutil.o 3rdParty/zlib-1.2.5/zutil.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerf8ded770cffcb841^5727e370cffcb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.c0000000000000000^3028"CompileC build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/zutil.o 3rdParty/zlib-1.2.5/zutil.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-generated-files.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-own-target-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-all-target-headers.hmap -iquote /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/PackageMaker-project-headers.hmap -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources/i386 -I/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/DerivedSources -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -MMD -MT dependencies -MF /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/zutil.d --serialize-diagnostics /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/zutil.dia -c /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/3rdParty/zlib-1.2.5/zutil.c -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/zutil.o36"8C81A939-B5AC-4A29-8C1D-05AE8288C61B-
+b7DFD6066-510C-4E50-BF1E-37765179BD46
+
+CGenerateDSYMFile /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker.dSYM /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker
+s419379469.181371
+e419379469.345058
+r1
+xGenerateDSYMFile
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker.dSYM
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Generate /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker.dSYM75"GenerateDSYMFile build/Release/PackageMaker.dSYM build/Release/PackageMakera27b2e0d39ffb841^1957580d39ffb841^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker.dSYM/0000000000000000^458"GenerateDSYMFile build/Release/PackageMaker.dSYM build/Release/PackageMaker    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker.dSYM36"364FDD3A-2985-48D4-A3B7-07C288374F2C-
+b1460EE4D-C17D-437F-BE6E-CCD5A215D644
+
+CLd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker normal i386
+s419379469.083631
+e419379469.180534
+r1
+xLd
+x/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker
+xnormal
+xi386
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/PackageMaker.LinkFileList
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/main.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/adler32.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/compress.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/crc32.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/deflate.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzclose.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzlib.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzread.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/gzwrite.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/infback.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inffast.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inflate.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/inftrees.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/trees.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/uncompr.o
+d/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/zutil.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Link /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker41"Ld build/Release/PackageMaker normal i3867d79150d39ffb841^11382e0d39ffb841^---0#0#1#--1071"Ld build/Release/PackageMaker normal i386    cd /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -F/Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release -filelist /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/PackageMaker.LinkFileList -mmacosx-version-min=10.9 -Xlinker -dependency_info -Xlinker /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/PackageMaker.build/Release/PackageMaker.build/Objects-normal/i386/PackageMaker_dependency_info.dat -o /Users/tod/Documents/GameProjects/kaiser/trunk/src/DTUPackageMaker/src/build/Release/PackageMaker36"1CBCCBD2-374B-4DFB-8685-EC5D7C7095EC-
+b1460EE4D-C17D-437F-BE6E-CCD5A215D644
+

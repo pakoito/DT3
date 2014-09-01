@@ -1,0 +1,753 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DE13BE6B185648F9008721A7 /* DTPortalCommon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE1917D69B0300162F3A /* DTPortalCommon.cpp */; };
+		DE13BE6C185648F9008721A7 /* DTPortalHighScores.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE1B17D69B0300162F3A /* DTPortalHighScores.cpp */; };
+		DE13BE6D185648F9008721A7 /* DTPortalSDK.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE1D17D69B0300162F3A /* DTPortalSDK.cpp */; };
+		DE13BE6E185648F9008721A7 /* DTPortalTasks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE1F17D69B0300162F3A /* DTPortalTasks.cpp */; };
+		DE13BE6F185648F9008721A7 /* DTPortalNetwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE2917D69B7500162F3A /* DTPortalNetwork.cpp */; };
+		DE13BEF8185648F9008721A7 /* DTPortalTextBlob.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE254E6E17E11DDB002C11B1 /* DTPortalTextBlob.cpp */; };
+		DE13BEF9185648F9008721A7 /* DTPortalAnalytics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE254E7217E134AF002C11B1 /* DTPortalAnalytics.cpp */; };
+		DE13BEFC185648F9008721A7 /* DTPortalCommon.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE8CFE1A17D69B0300162F3A /* DTPortalCommon.hpp */; };
+		DE13BEFD185648F9008721A7 /* DTPortalHighScores.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE8CFE1C17D69B0300162F3A /* DTPortalHighScores.hpp */; };
+		DE13BEFE185648F9008721A7 /* DTPortalSDK.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE8CFE1E17D69B0300162F3A /* DTPortalSDK.hpp */; };
+		DE13BEFF185648F9008721A7 /* DTPortalTasks.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE8CFE2017D69B0300162F3A /* DTPortalTasks.hpp */; };
+		DE13BF00185648F9008721A7 /* DTPortalNetwork.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE8CFE2A17D69B7500162F3A /* DTPortalNetwork.hpp */; };
+		DE13BF89185648F9008721A7 /* DTPortalTextBlob.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE254E6F17E11DDB002C11B1 /* DTPortalTextBlob.hpp */; };
+		DE13BF8A185648F9008721A7 /* DTPortalAnalytics.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE254E7317E134AF002C11B1 /* DTPortalAnalytics.hpp */; };
+		DE254E7017E11DDB002C11B1 /* DTPortalTextBlob.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE254E6E17E11DDB002C11B1 /* DTPortalTextBlob.cpp */; };
+		DE254E7117E11DDB002C11B1 /* DTPortalTextBlob.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE254E6F17E11DDB002C11B1 /* DTPortalTextBlob.hpp */; };
+		DE254E7417E134AF002C11B1 /* DTPortalAnalytics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE254E7217E134AF002C11B1 /* DTPortalAnalytics.cpp */; };
+		DE254E7517E134AF002C11B1 /* DTPortalAnalytics.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE254E7317E134AF002C11B1 /* DTPortalAnalytics.hpp */; };
+		DE83B2E919055A7A00DBCC2A /* aes.c in Sources */ = {isa = PBXBuildFile; fileRef = DE83B2E819055A7A00DBCC2A /* aes.c */; };
+		DE83B2EA19055A7A00DBCC2A /* aes.c in Sources */ = {isa = PBXBuildFile; fileRef = DE83B2E819055A7A00DBCC2A /* aes.c */; };
+		DE83B2EC1907FBD300DBCC2A /* zeromem.c in Sources */ = {isa = PBXBuildFile; fileRef = DE83B2EB1907FBD300DBCC2A /* zeromem.c */; };
+		DE83B2ED1907FBD300DBCC2A /* zeromem.c in Sources */ = {isa = PBXBuildFile; fileRef = DE83B2EB1907FBD300DBCC2A /* zeromem.c */; };
+		DE83B2F01908828E00DBCC2A /* DTPortalAppStoreValidator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE83B2EE1908828E00DBCC2A /* DTPortalAppStoreValidator.cpp */; };
+		DE83B2F11908828E00DBCC2A /* DTPortalAppStoreValidator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE83B2EE1908828E00DBCC2A /* DTPortalAppStoreValidator.cpp */; };
+		DE83B2F21908828E00DBCC2A /* DTPortalAppStoreValidator.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE83B2EF1908828E00DBCC2A /* DTPortalAppStoreValidator.hpp */; };
+		DE83B2F31908828E00DBCC2A /* DTPortalAppStoreValidator.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE83B2EF1908828E00DBCC2A /* DTPortalAppStoreValidator.hpp */; };
+		DE8CFE2117D69B0300162F3A /* DTPortalCommon.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE1917D69B0300162F3A /* DTPortalCommon.cpp */; };
+		DE8CFE2217D69B0300162F3A /* DTPortalCommon.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE8CFE1A17D69B0300162F3A /* DTPortalCommon.hpp */; };
+		DE8CFE2317D69B0300162F3A /* DTPortalHighScores.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE1B17D69B0300162F3A /* DTPortalHighScores.cpp */; };
+		DE8CFE2417D69B0300162F3A /* DTPortalHighScores.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE8CFE1C17D69B0300162F3A /* DTPortalHighScores.hpp */; };
+		DE8CFE2517D69B0300162F3A /* DTPortalSDK.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE1D17D69B0300162F3A /* DTPortalSDK.cpp */; };
+		DE8CFE2617D69B0300162F3A /* DTPortalSDK.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE8CFE1E17D69B0300162F3A /* DTPortalSDK.hpp */; };
+		DE8CFE2717D69B0300162F3A /* DTPortalTasks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE1F17D69B0300162F3A /* DTPortalTasks.cpp */; };
+		DE8CFE2817D69B0300162F3A /* DTPortalTasks.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE8CFE2017D69B0300162F3A /* DTPortalTasks.hpp */; };
+		DE8CFE2B17D69B7500162F3A /* DTPortalNetwork.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE2917D69B7500162F3A /* DTPortalNetwork.cpp */; };
+		DE8CFE2C17D69B7500162F3A /* DTPortalNetwork.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE8CFE2A17D69B7500162F3A /* DTPortalNetwork.hpp */; };
+		DE996D7718FDD26900217BC4 /* DTPortalStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE996D7518FDD26900217BC4 /* DTPortalStrings.cpp */; };
+		DE996D7818FDD26900217BC4 /* DTPortalStrings.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE996D7518FDD26900217BC4 /* DTPortalStrings.cpp */; };
+		DE996D7918FDD26900217BC4 /* DTPortalStrings.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE996D7618FDD26900217BC4 /* DTPortalStrings.hpp */; };
+		DE996D7A18FDD26900217BC4 /* DTPortalStrings.hpp in Headers */ = {isa = PBXBuildFile; fileRef = DE996D7618FDD26900217BC4 /* DTPortalStrings.hpp */; };
+		DEFBB6C01861EDF6001CBD72 /* tomcrypt.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B31861EDF6001CBD72 /* tomcrypt.h */; };
+		DEFBB6C11861EDF6001CBD72 /* tomcrypt.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B31861EDF6001CBD72 /* tomcrypt.h */; };
+		DEFBB6C21861EDF6001CBD72 /* tomcrypt_argchk.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B41861EDF6001CBD72 /* tomcrypt_argchk.h */; };
+		DEFBB6C31861EDF6001CBD72 /* tomcrypt_argchk.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B41861EDF6001CBD72 /* tomcrypt_argchk.h */; };
+		DEFBB6C41861EDF6001CBD72 /* tomcrypt_cfg.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B51861EDF6001CBD72 /* tomcrypt_cfg.h */; };
+		DEFBB6C51861EDF6001CBD72 /* tomcrypt_cfg.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B51861EDF6001CBD72 /* tomcrypt_cfg.h */; };
+		DEFBB6C61861EDF6001CBD72 /* tomcrypt_cipher.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B61861EDF6001CBD72 /* tomcrypt_cipher.h */; };
+		DEFBB6C71861EDF6001CBD72 /* tomcrypt_cipher.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B61861EDF6001CBD72 /* tomcrypt_cipher.h */; };
+		DEFBB6C81861EDF6001CBD72 /* tomcrypt_custom.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B71861EDF6001CBD72 /* tomcrypt_custom.h */; };
+		DEFBB6C91861EDF6001CBD72 /* tomcrypt_custom.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B71861EDF6001CBD72 /* tomcrypt_custom.h */; };
+		DEFBB6CA1861EDF6001CBD72 /* tomcrypt_hash.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B81861EDF6001CBD72 /* tomcrypt_hash.h */; };
+		DEFBB6CB1861EDF6001CBD72 /* tomcrypt_hash.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B81861EDF6001CBD72 /* tomcrypt_hash.h */; };
+		DEFBB6CC1861EDF6001CBD72 /* tomcrypt_mac.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B91861EDF6001CBD72 /* tomcrypt_mac.h */; };
+		DEFBB6CD1861EDF6001CBD72 /* tomcrypt_mac.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6B91861EDF6001CBD72 /* tomcrypt_mac.h */; };
+		DEFBB6CE1861EDF6001CBD72 /* tomcrypt_macros.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BA1861EDF6001CBD72 /* tomcrypt_macros.h */; };
+		DEFBB6CF1861EDF6001CBD72 /* tomcrypt_macros.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BA1861EDF6001CBD72 /* tomcrypt_macros.h */; };
+		DEFBB6D01861EDF6001CBD72 /* tomcrypt_math.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BB1861EDF6001CBD72 /* tomcrypt_math.h */; };
+		DEFBB6D11861EDF6001CBD72 /* tomcrypt_math.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BB1861EDF6001CBD72 /* tomcrypt_math.h */; };
+		DEFBB6D21861EDF6001CBD72 /* tomcrypt_misc.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BC1861EDF6001CBD72 /* tomcrypt_misc.h */; };
+		DEFBB6D31861EDF6001CBD72 /* tomcrypt_misc.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BC1861EDF6001CBD72 /* tomcrypt_misc.h */; };
+		DEFBB6D41861EDF6001CBD72 /* tomcrypt_pk.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BD1861EDF6001CBD72 /* tomcrypt_pk.h */; };
+		DEFBB6D51861EDF6001CBD72 /* tomcrypt_pk.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BD1861EDF6001CBD72 /* tomcrypt_pk.h */; };
+		DEFBB6D61861EDF6001CBD72 /* tomcrypt_pkcs.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BE1861EDF6001CBD72 /* tomcrypt_pkcs.h */; };
+		DEFBB6D71861EDF6001CBD72 /* tomcrypt_pkcs.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BE1861EDF6001CBD72 /* tomcrypt_pkcs.h */; };
+		DEFBB6D81861EDF6001CBD72 /* tomcrypt_prng.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BF1861EDF6001CBD72 /* tomcrypt_prng.h */; };
+		DEFBB6D91861EDF6001CBD72 /* tomcrypt_prng.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6BF1861EDF6001CBD72 /* tomcrypt_prng.h */; };
+		DEFBB6DE1861EE39001CBD72 /* base64_decode.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6DC1861EE39001CBD72 /* base64_decode.c */; };
+		DEFBB6DF1861EE39001CBD72 /* base64_decode.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6DC1861EE39001CBD72 /* base64_decode.c */; };
+		DEFBB6E01861EE39001CBD72 /* base64_encode.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6DD1861EE39001CBD72 /* base64_encode.c */; };
+		DEFBB6E11861EE39001CBD72 /* base64_encode.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6DD1861EE39001CBD72 /* base64_encode.c */; };
+		DEFBB6EA1861EE7C001CBD72 /* sha256.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6E51861EE7C001CBD72 /* sha256.c */; };
+		DEFBB6EB1861EE7C001CBD72 /* sha256.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6E51861EE7C001CBD72 /* sha256.c */; };
+		DEFBB6F21861F66F001CBD72 /* crypt_argchk.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6F11861F66F001CBD72 /* crypt_argchk.c */; };
+		DEFBB6F31861F66F001CBD72 /* crypt_argchk.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6F11861F66F001CBD72 /* crypt_argchk.c */; };
+		DEFBB7071861FDC6001CBD72 /* dump.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6F51861FDC6001CBD72 /* dump.c */; };
+		DEFBB7081861FDC6001CBD72 /* dump.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6F51861FDC6001CBD72 /* dump.c */; };
+		DEFBB7091861FDC6001CBD72 /* error.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6F61861FDC6001CBD72 /* error.c */; };
+		DEFBB70A1861FDC6001CBD72 /* error.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6F61861FDC6001CBD72 /* error.c */; };
+		DEFBB70B1861FDC6001CBD72 /* hashtable.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6F71861FDC6001CBD72 /* hashtable.c */; };
+		DEFBB70C1861FDC6001CBD72 /* hashtable.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6F71861FDC6001CBD72 /* hashtable.c */; };
+		DEFBB70D1861FDC6001CBD72 /* hashtable.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6F81861FDC6001CBD72 /* hashtable.h */; };
+		DEFBB70E1861FDC6001CBD72 /* hashtable.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6F81861FDC6001CBD72 /* hashtable.h */; };
+		DEFBB70F1861FDC6001CBD72 /* jansson_private.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6FA1861FDC6001CBD72 /* jansson_private.h */; };
+		DEFBB7101861FDC6001CBD72 /* jansson_private.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6FA1861FDC6001CBD72 /* jansson_private.h */; };
+		DEFBB7111861FDC6001CBD72 /* jansson.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6FC1861FDC6001CBD72 /* jansson.h */; };
+		DEFBB7121861FDC6001CBD72 /* jansson.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB6FC1861FDC6001CBD72 /* jansson.h */; };
+		DEFBB7131861FDC6001CBD72 /* load.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6FD1861FDC6001CBD72 /* load.c */; };
+		DEFBB7141861FDC6001CBD72 /* load.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6FD1861FDC6001CBD72 /* load.c */; };
+		DEFBB7151861FDC6001CBD72 /* memory.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6FF1861FDC6001CBD72 /* memory.c */; };
+		DEFBB7161861FDC6001CBD72 /* memory.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB6FF1861FDC6001CBD72 /* memory.c */; };
+		DEFBB7171861FDC6001CBD72 /* pack_unpack.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB7001861FDC6001CBD72 /* pack_unpack.c */; };
+		DEFBB7181861FDC6001CBD72 /* pack_unpack.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB7001861FDC6001CBD72 /* pack_unpack.c */; };
+		DEFBB7191861FDC6001CBD72 /* strbuffer.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB7011861FDC6001CBD72 /* strbuffer.c */; };
+		DEFBB71A1861FDC6001CBD72 /* strbuffer.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB7011861FDC6001CBD72 /* strbuffer.c */; };
+		DEFBB71B1861FDC6001CBD72 /* strbuffer.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB7021861FDC6001CBD72 /* strbuffer.h */; };
+		DEFBB71C1861FDC6001CBD72 /* strbuffer.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB7021861FDC6001CBD72 /* strbuffer.h */; };
+		DEFBB71D1861FDC6001CBD72 /* strconv.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB7031861FDC6001CBD72 /* strconv.c */; };
+		DEFBB71E1861FDC6001CBD72 /* strconv.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB7031861FDC6001CBD72 /* strconv.c */; };
+		DEFBB71F1861FDC6001CBD72 /* utf.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB7041861FDC6001CBD72 /* utf.c */; };
+		DEFBB7201861FDC6001CBD72 /* utf.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB7041861FDC6001CBD72 /* utf.c */; };
+		DEFBB7211861FDC6001CBD72 /* utf.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB7051861FDC6001CBD72 /* utf.h */; };
+		DEFBB7221861FDC6001CBD72 /* utf.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB7051861FDC6001CBD72 /* utf.h */; };
+		DEFBB7231861FDC6001CBD72 /* value.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB7061861FDC6001CBD72 /* value.c */; };
+		DEFBB7241861FDC6001CBD72 /* value.c in Sources */ = {isa = PBXBuildFile; fileRef = DEFBB7061861FDC6001CBD72 /* value.c */; };
+		DEFBB7261861FEDE001CBD72 /* jansson_config.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB7251861FEDE001CBD72 /* jansson_config.h */; };
+		DEFBB7271861FEDE001CBD72 /* jansson_config.h in Headers */ = {isa = PBXBuildFile; fileRef = DEFBB7251861FEDE001CBD72 /* jansson_config.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		DE13BF8E185648F9008721A7 /* libDTPortalLibiOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libDTPortalLibiOS.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE254E6E17E11DDB002C11B1 /* DTPortalTextBlob.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = DTPortalTextBlob.cpp; path = ../DTPortalLib/DTPortalTextBlob.cpp; sourceTree = "<group>"; };
+		DE254E6F17E11DDB002C11B1 /* DTPortalTextBlob.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = DTPortalTextBlob.hpp; path = ../DTPortalLib/DTPortalTextBlob.hpp; sourceTree = "<group>"; };
+		DE254E7217E134AF002C11B1 /* DTPortalAnalytics.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = DTPortalAnalytics.cpp; path = ../DTPortalLib/DTPortalAnalytics.cpp; sourceTree = "<group>"; };
+		DE254E7317E134AF002C11B1 /* DTPortalAnalytics.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = DTPortalAnalytics.hpp; path = ../DTPortalLib/DTPortalAnalytics.hpp; sourceTree = "<group>"; };
+		DE3AB26A17D69AA100A081E4 /* libDTPortalLibMac.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libDTPortalLibMac.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE83B2E819055A7A00DBCC2A /* aes.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = aes.c; path = "../DTPortalLib/3rdParty/libtomcrypt-1.17/src/ciphers/aes/aes.c"; sourceTree = "<group>"; };
+		DE83B2EB1907FBD300DBCC2A /* zeromem.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = zeromem.c; path = "../DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/zeromem.c"; sourceTree = "<group>"; };
+		DE83B2EE1908828E00DBCC2A /* DTPortalAppStoreValidator.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = DTPortalAppStoreValidator.cpp; path = ../DTPortalLib/DTPortalAppStoreValidator.cpp; sourceTree = "<group>"; };
+		DE83B2EF1908828E00DBCC2A /* DTPortalAppStoreValidator.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = DTPortalAppStoreValidator.hpp; path = ../DTPortalLib/DTPortalAppStoreValidator.hpp; sourceTree = "<group>"; };
+		DE8CFE1917D69B0300162F3A /* DTPortalCommon.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = DTPortalCommon.cpp; path = ../DTPortalLib/DTPortalCommon.cpp; sourceTree = "<group>"; };
+		DE8CFE1A17D69B0300162F3A /* DTPortalCommon.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = DTPortalCommon.hpp; path = ../DTPortalLib/DTPortalCommon.hpp; sourceTree = "<group>"; };
+		DE8CFE1B17D69B0300162F3A /* DTPortalHighScores.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = DTPortalHighScores.cpp; path = ../DTPortalLib/DTPortalHighScores.cpp; sourceTree = "<group>"; };
+		DE8CFE1C17D69B0300162F3A /* DTPortalHighScores.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = DTPortalHighScores.hpp; path = ../DTPortalLib/DTPortalHighScores.hpp; sourceTree = "<group>"; };
+		DE8CFE1D17D69B0300162F3A /* DTPortalSDK.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = DTPortalSDK.cpp; path = ../DTPortalLib/DTPortalSDK.cpp; sourceTree = "<group>"; };
+		DE8CFE1E17D69B0300162F3A /* DTPortalSDK.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = DTPortalSDK.hpp; path = ../DTPortalLib/DTPortalSDK.hpp; sourceTree = "<group>"; };
+		DE8CFE1F17D69B0300162F3A /* DTPortalTasks.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = DTPortalTasks.cpp; path = ../DTPortalLib/DTPortalTasks.cpp; sourceTree = "<group>"; };
+		DE8CFE2017D69B0300162F3A /* DTPortalTasks.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = DTPortalTasks.hpp; path = ../DTPortalLib/DTPortalTasks.hpp; sourceTree = "<group>"; };
+		DE8CFE2917D69B7500162F3A /* DTPortalNetwork.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = DTPortalNetwork.cpp; path = ../DTPortalLib/DTPortalNetwork.cpp; sourceTree = "<group>"; };
+		DE8CFE2A17D69B7500162F3A /* DTPortalNetwork.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = DTPortalNetwork.hpp; path = ../DTPortalLib/DTPortalNetwork.hpp; sourceTree = "<group>"; };
+		DE996D7518FDD26900217BC4 /* DTPortalStrings.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = DTPortalStrings.cpp; path = ../DTPortalLib/DTPortalStrings.cpp; sourceTree = "<group>"; };
+		DE996D7618FDD26900217BC4 /* DTPortalStrings.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = DTPortalStrings.hpp; path = ../DTPortalLib/DTPortalStrings.hpp; sourceTree = "<group>"; };
+		DEFBB6B31861EDF6001CBD72 /* tomcrypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt.h; sourceTree = "<group>"; };
+		DEFBB6B41861EDF6001CBD72 /* tomcrypt_argchk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_argchk.h; sourceTree = "<group>"; };
+		DEFBB6B51861EDF6001CBD72 /* tomcrypt_cfg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_cfg.h; sourceTree = "<group>"; };
+		DEFBB6B61861EDF6001CBD72 /* tomcrypt_cipher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_cipher.h; sourceTree = "<group>"; };
+		DEFBB6B71861EDF6001CBD72 /* tomcrypt_custom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_custom.h; sourceTree = "<group>"; };
+		DEFBB6B81861EDF6001CBD72 /* tomcrypt_hash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_hash.h; sourceTree = "<group>"; };
+		DEFBB6B91861EDF6001CBD72 /* tomcrypt_mac.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_mac.h; sourceTree = "<group>"; };
+		DEFBB6BA1861EDF6001CBD72 /* tomcrypt_macros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_macros.h; sourceTree = "<group>"; };
+		DEFBB6BB1861EDF6001CBD72 /* tomcrypt_math.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_math.h; sourceTree = "<group>"; };
+		DEFBB6BC1861EDF6001CBD72 /* tomcrypt_misc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_misc.h; sourceTree = "<group>"; };
+		DEFBB6BD1861EDF6001CBD72 /* tomcrypt_pk.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_pk.h; sourceTree = "<group>"; };
+		DEFBB6BE1861EDF6001CBD72 /* tomcrypt_pkcs.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_pkcs.h; sourceTree = "<group>"; };
+		DEFBB6BF1861EDF6001CBD72 /* tomcrypt_prng.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tomcrypt_prng.h; sourceTree = "<group>"; };
+		DEFBB6DC1861EE39001CBD72 /* base64_decode.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = base64_decode.c; sourceTree = "<group>"; };
+		DEFBB6DD1861EE39001CBD72 /* base64_encode.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = base64_encode.c; sourceTree = "<group>"; };
+		DEFBB6E51861EE7C001CBD72 /* sha256.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = sha256.c; sourceTree = "<group>"; };
+		DEFBB6F11861F66F001CBD72 /* crypt_argchk.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = crypt_argchk.c; path = "../DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/crypt/crypt_argchk.c"; sourceTree = "<group>"; };
+		DEFBB6F51861FDC6001CBD72 /* dump.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = dump.c; path = "../DTPortalLib/3rdParty/jansson-2.5/src/dump.c"; sourceTree = "<group>"; };
+		DEFBB6F61861FDC6001CBD72 /* error.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = error.c; path = "../DTPortalLib/3rdParty/jansson-2.5/src/error.c"; sourceTree = "<group>"; };
+		DEFBB6F71861FDC6001CBD72 /* hashtable.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = hashtable.c; path = "../DTPortalLib/3rdParty/jansson-2.5/src/hashtable.c"; sourceTree = "<group>"; };
+		DEFBB6F81861FDC6001CBD72 /* hashtable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = hashtable.h; path = "../DTPortalLib/3rdParty/jansson-2.5/src/hashtable.h"; sourceTree = "<group>"; };
+		DEFBB6FA1861FDC6001CBD72 /* jansson_private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = jansson_private.h; path = "../DTPortalLib/3rdParty/jansson-2.5/src/jansson_private.h"; sourceTree = "<group>"; };
+		DEFBB6FC1861FDC6001CBD72 /* jansson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = jansson.h; path = "../DTPortalLib/3rdParty/jansson-2.5/src/jansson.h"; sourceTree = "<group>"; };
+		DEFBB6FD1861FDC6001CBD72 /* load.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = load.c; path = "../DTPortalLib/3rdParty/jansson-2.5/src/load.c"; sourceTree = "<group>"; };
+		DEFBB6FF1861FDC6001CBD72 /* memory.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = memory.c; path = "../DTPortalLib/3rdParty/jansson-2.5/src/memory.c"; sourceTree = "<group>"; };
+		DEFBB7001861FDC6001CBD72 /* pack_unpack.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = pack_unpack.c; path = "../DTPortalLib/3rdParty/jansson-2.5/src/pack_unpack.c"; sourceTree = "<group>"; };
+		DEFBB7011861FDC6001CBD72 /* strbuffer.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = strbuffer.c; path = "../DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.c"; sourceTree = "<group>"; };
+		DEFBB7021861FDC6001CBD72 /* strbuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = strbuffer.h; path = "../DTPortalLib/3rdParty/jansson-2.5/src/strbuffer.h"; sourceTree = "<group>"; };
+		DEFBB7031861FDC6001CBD72 /* strconv.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = strconv.c; path = "../DTPortalLib/3rdParty/jansson-2.5/src/strconv.c"; sourceTree = "<group>"; };
+		DEFBB7041861FDC6001CBD72 /* utf.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = utf.c; path = "../DTPortalLib/3rdParty/jansson-2.5/src/utf.c"; sourceTree = "<group>"; };
+		DEFBB7051861FDC6001CBD72 /* utf.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = utf.h; path = "../DTPortalLib/3rdParty/jansson-2.5/src/utf.h"; sourceTree = "<group>"; };
+		DEFBB7061861FDC6001CBD72 /* value.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = value.c; path = "../DTPortalLib/3rdParty/jansson-2.5/src/value.c"; sourceTree = "<group>"; };
+		DEFBB7251861FEDE001CBD72 /* jansson_config.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = jansson_config.h; path = "../DTPortalLib/3rdParty/jansson-2.5/src/jansson_config.h"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DE13BEFA185648F9008721A7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE3AB26717D69AA100A081E4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DE3AB26117D69AA100A081E4 = {
+			isa = PBXGroup;
+			children = (
+				DE8CFE3C17D6B30D00162F3A /* 3rdParty */,
+				DE8CFE1817D69AF800162F3A /* Source */,
+				DE3AB26B17D69AA100A081E4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DE3AB26B17D69AA100A081E4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DE3AB26A17D69AA100A081E4 /* libDTPortalLibMac.a */,
+				DE13BF8E185648F9008721A7 /* libDTPortalLibiOS.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DE83B2E719055A6700DBCC2A /* cyphers */ = {
+			isa = PBXGroup;
+			children = (
+				DE83B2E819055A7A00DBCC2A /* aes.c */,
+			);
+			name = cyphers;
+			sourceTree = "<group>";
+		};
+		DE8CFE1817D69AF800162F3A /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				DE254E7217E134AF002C11B1 /* DTPortalAnalytics.cpp */,
+				DE254E7317E134AF002C11B1 /* DTPortalAnalytics.hpp */,
+				DE83B2EE1908828E00DBCC2A /* DTPortalAppStoreValidator.cpp */,
+				DE83B2EF1908828E00DBCC2A /* DTPortalAppStoreValidator.hpp */,
+				DE8CFE1917D69B0300162F3A /* DTPortalCommon.cpp */,
+				DE8CFE1A17D69B0300162F3A /* DTPortalCommon.hpp */,
+				DE8CFE1B17D69B0300162F3A /* DTPortalHighScores.cpp */,
+				DE8CFE1C17D69B0300162F3A /* DTPortalHighScores.hpp */,
+				DE8CFE2917D69B7500162F3A /* DTPortalNetwork.cpp */,
+				DE8CFE2A17D69B7500162F3A /* DTPortalNetwork.hpp */,
+				DE8CFE1D17D69B0300162F3A /* DTPortalSDK.cpp */,
+				DE8CFE1E17D69B0300162F3A /* DTPortalSDK.hpp */,
+				DE996D7518FDD26900217BC4 /* DTPortalStrings.cpp */,
+				DE996D7618FDD26900217BC4 /* DTPortalStrings.hpp */,
+				DE8CFE1F17D69B0300162F3A /* DTPortalTasks.cpp */,
+				DE8CFE2017D69B0300162F3A /* DTPortalTasks.hpp */,
+				DE254E6E17E11DDB002C11B1 /* DTPortalTextBlob.cpp */,
+				DE254E6F17E11DDB002C11B1 /* DTPortalTextBlob.hpp */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		DE8CFE3C17D6B30D00162F3A /* 3rdParty */ = {
+			isa = PBXGroup;
+			children = (
+				DEFBB6F41861FDB4001CBD72 /* jansson */,
+				DEFBB6321861ED57001CBD72 /* libtomcrypt */,
+			);
+			name = 3rdParty;
+			sourceTree = "<group>";
+		};
+		DEFBB6321861ED57001CBD72 /* libtomcrypt */ = {
+			isa = PBXGroup;
+			children = (
+				DE83B2E719055A6700DBCC2A /* cyphers */,
+				DEFBB6E21861EE44001CBD72 /* hashes */,
+				DEFBB6DA1861EE2C001CBD72 /* misc */,
+				DEFBB6B21861EDF6001CBD72 /* headers */,
+			);
+			name = libtomcrypt;
+			sourceTree = "<group>";
+		};
+		DEFBB6B21861EDF6001CBD72 /* headers */ = {
+			isa = PBXGroup;
+			children = (
+				DEFBB6B31861EDF6001CBD72 /* tomcrypt.h */,
+				DEFBB6B41861EDF6001CBD72 /* tomcrypt_argchk.h */,
+				DEFBB6B51861EDF6001CBD72 /* tomcrypt_cfg.h */,
+				DEFBB6B61861EDF6001CBD72 /* tomcrypt_cipher.h */,
+				DEFBB6B71861EDF6001CBD72 /* tomcrypt_custom.h */,
+				DEFBB6B81861EDF6001CBD72 /* tomcrypt_hash.h */,
+				DEFBB6B91861EDF6001CBD72 /* tomcrypt_mac.h */,
+				DEFBB6BA1861EDF6001CBD72 /* tomcrypt_macros.h */,
+				DEFBB6BB1861EDF6001CBD72 /* tomcrypt_math.h */,
+				DEFBB6BC1861EDF6001CBD72 /* tomcrypt_misc.h */,
+				DEFBB6BD1861EDF6001CBD72 /* tomcrypt_pk.h */,
+				DEFBB6BE1861EDF6001CBD72 /* tomcrypt_pkcs.h */,
+				DEFBB6BF1861EDF6001CBD72 /* tomcrypt_prng.h */,
+			);
+			name = headers;
+			path = "../DTPortalLib/3rdParty/libtomcrypt-1.17/src/headers";
+			sourceTree = "<group>";
+		};
+		DEFBB6DA1861EE2C001CBD72 /* misc */ = {
+			isa = PBXGroup;
+			children = (
+				DE83B2EB1907FBD300DBCC2A /* zeromem.c */,
+				DEFBB6F01861F640001CBD72 /* crypt */,
+				DEFBB6DB1861EE39001CBD72 /* base64 */,
+			);
+			name = misc;
+			sourceTree = "<group>";
+		};
+		DEFBB6DB1861EE39001CBD72 /* base64 */ = {
+			isa = PBXGroup;
+			children = (
+				DEFBB6DC1861EE39001CBD72 /* base64_decode.c */,
+				DEFBB6DD1861EE39001CBD72 /* base64_encode.c */,
+			);
+			name = base64;
+			path = "../DTPortalLib/3rdParty/libtomcrypt-1.17/src/misc/base64";
+			sourceTree = "<group>";
+		};
+		DEFBB6E21861EE44001CBD72 /* hashes */ = {
+			isa = PBXGroup;
+			children = (
+				DEFBB6E31861EE7C001CBD72 /* sha2 */,
+			);
+			name = hashes;
+			sourceTree = "<group>";
+		};
+		DEFBB6E31861EE7C001CBD72 /* sha2 */ = {
+			isa = PBXGroup;
+			children = (
+				DEFBB6E51861EE7C001CBD72 /* sha256.c */,
+			);
+			name = sha2;
+			path = "../DTPortalLib/3rdParty/libtomcrypt-1.17/src/hashes/sha2";
+			sourceTree = "<group>";
+		};
+		DEFBB6F01861F640001CBD72 /* crypt */ = {
+			isa = PBXGroup;
+			children = (
+				DEFBB6F11861F66F001CBD72 /* crypt_argchk.c */,
+			);
+			name = crypt;
+			sourceTree = "<group>";
+		};
+		DEFBB6F41861FDB4001CBD72 /* jansson */ = {
+			isa = PBXGroup;
+			children = (
+				DEFBB6F51861FDC6001CBD72 /* dump.c */,
+				DEFBB6F61861FDC6001CBD72 /* error.c */,
+				DEFBB6F71861FDC6001CBD72 /* hashtable.c */,
+				DEFBB6F81861FDC6001CBD72 /* hashtable.h */,
+				DEFBB7251861FEDE001CBD72 /* jansson_config.h */,
+				DEFBB6FA1861FDC6001CBD72 /* jansson_private.h */,
+				DEFBB6FC1861FDC6001CBD72 /* jansson.h */,
+				DEFBB6FD1861FDC6001CBD72 /* load.c */,
+				DEFBB6FF1861FDC6001CBD72 /* memory.c */,
+				DEFBB7001861FDC6001CBD72 /* pack_unpack.c */,
+				DEFBB7011861FDC6001CBD72 /* strbuffer.c */,
+				DEFBB7021861FDC6001CBD72 /* strbuffer.h */,
+				DEFBB7031861FDC6001CBD72 /* strconv.c */,
+				DEFBB7041861FDC6001CBD72 /* utf.c */,
+				DEFBB7051861FDC6001CBD72 /* utf.h */,
+				DEFBB7061861FDC6001CBD72 /* value.c */,
+			);
+			name = jansson;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		DE13BEFB185648F9008721A7 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DEFBB7221861FDC6001CBD72 /* utf.h in Headers */,
+				DE83B2F31908828E00DBCC2A /* DTPortalAppStoreValidator.hpp in Headers */,
+				DEFBB6D31861EDF6001CBD72 /* tomcrypt_misc.h in Headers */,
+				DEFBB70E1861FDC6001CBD72 /* hashtable.h in Headers */,
+				DEFBB6C31861EDF6001CBD72 /* tomcrypt_argchk.h in Headers */,
+				DEFBB7121861FDC6001CBD72 /* jansson.h in Headers */,
+				DEFBB6C11861EDF6001CBD72 /* tomcrypt.h in Headers */,
+				DEFBB6D71861EDF6001CBD72 /* tomcrypt_pkcs.h in Headers */,
+				DEFBB6D11861EDF6001CBD72 /* tomcrypt_math.h in Headers */,
+				DEFBB71C1861FDC6001CBD72 /* strbuffer.h in Headers */,
+				DE13BEFC185648F9008721A7 /* DTPortalCommon.hpp in Headers */,
+				DEFBB6CD1861EDF6001CBD72 /* tomcrypt_mac.h in Headers */,
+				DEFBB6C71861EDF6001CBD72 /* tomcrypt_cipher.h in Headers */,
+				DE13BEFD185648F9008721A7 /* DTPortalHighScores.hpp in Headers */,
+				DEFBB6C91861EDF6001CBD72 /* tomcrypt_custom.h in Headers */,
+				DEFBB6C51861EDF6001CBD72 /* tomcrypt_cfg.h in Headers */,
+				DE996D7A18FDD26900217BC4 /* DTPortalStrings.hpp in Headers */,
+				DE13BEFE185648F9008721A7 /* DTPortalSDK.hpp in Headers */,
+				DE13BEFF185648F9008721A7 /* DTPortalTasks.hpp in Headers */,
+				DE13BF00185648F9008721A7 /* DTPortalNetwork.hpp in Headers */,
+				DEFBB7101861FDC6001CBD72 /* jansson_private.h in Headers */,
+				DE13BF89185648F9008721A7 /* DTPortalTextBlob.hpp in Headers */,
+				DEFBB6CF1861EDF6001CBD72 /* tomcrypt_macros.h in Headers */,
+				DEFBB6D51861EDF6001CBD72 /* tomcrypt_pk.h in Headers */,
+				DEFBB6D91861EDF6001CBD72 /* tomcrypt_prng.h in Headers */,
+				DEFBB6CB1861EDF6001CBD72 /* tomcrypt_hash.h in Headers */,
+				DE13BF8A185648F9008721A7 /* DTPortalAnalytics.hpp in Headers */,
+				DEFBB7271861FEDE001CBD72 /* jansson_config.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE3AB26817D69AA100A081E4 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DEFBB7211861FDC6001CBD72 /* utf.h in Headers */,
+				DE83B2F21908828E00DBCC2A /* DTPortalAppStoreValidator.hpp in Headers */,
+				DEFBB6D21861EDF6001CBD72 /* tomcrypt_misc.h in Headers */,
+				DEFBB70D1861FDC6001CBD72 /* hashtable.h in Headers */,
+				DEFBB6C21861EDF6001CBD72 /* tomcrypt_argchk.h in Headers */,
+				DEFBB7111861FDC6001CBD72 /* jansson.h in Headers */,
+				DEFBB6C01861EDF6001CBD72 /* tomcrypt.h in Headers */,
+				DEFBB6D61861EDF6001CBD72 /* tomcrypt_pkcs.h in Headers */,
+				DEFBB6D01861EDF6001CBD72 /* tomcrypt_math.h in Headers */,
+				DEFBB71B1861FDC6001CBD72 /* strbuffer.h in Headers */,
+				DE8CFE2217D69B0300162F3A /* DTPortalCommon.hpp in Headers */,
+				DEFBB6CC1861EDF6001CBD72 /* tomcrypt_mac.h in Headers */,
+				DEFBB6C61861EDF6001CBD72 /* tomcrypt_cipher.h in Headers */,
+				DE8CFE2417D69B0300162F3A /* DTPortalHighScores.hpp in Headers */,
+				DEFBB6C81861EDF6001CBD72 /* tomcrypt_custom.h in Headers */,
+				DEFBB6C41861EDF6001CBD72 /* tomcrypt_cfg.h in Headers */,
+				DE996D7918FDD26900217BC4 /* DTPortalStrings.hpp in Headers */,
+				DE8CFE2617D69B0300162F3A /* DTPortalSDK.hpp in Headers */,
+				DE8CFE2817D69B0300162F3A /* DTPortalTasks.hpp in Headers */,
+				DE8CFE2C17D69B7500162F3A /* DTPortalNetwork.hpp in Headers */,
+				DEFBB70F1861FDC6001CBD72 /* jansson_private.h in Headers */,
+				DE254E7117E11DDB002C11B1 /* DTPortalTextBlob.hpp in Headers */,
+				DEFBB6CE1861EDF6001CBD72 /* tomcrypt_macros.h in Headers */,
+				DEFBB6D41861EDF6001CBD72 /* tomcrypt_pk.h in Headers */,
+				DEFBB6D81861EDF6001CBD72 /* tomcrypt_prng.h in Headers */,
+				DEFBB6CA1861EDF6001CBD72 /* tomcrypt_hash.h in Headers */,
+				DE254E7517E134AF002C11B1 /* DTPortalAnalytics.hpp in Headers */,
+				DEFBB7261861FEDE001CBD72 /* jansson_config.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		DE13BE69185648F9008721A7 /* DTPortalLibiOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE13BF8B185648F9008721A7 /* Build configuration list for PBXNativeTarget "DTPortalLibiOS" */;
+			buildPhases = (
+				DE13BE6A185648F9008721A7 /* Sources */,
+				DE13BEFA185648F9008721A7 /* Frameworks */,
+				DE13BEFB185648F9008721A7 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DTPortalLibiOS;
+			productName = DTPortalLib;
+			productReference = DE13BF8E185648F9008721A7 /* libDTPortalLibiOS.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		DE3AB26917D69AA100A081E4 /* DTPortalLibMac */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE3AB26E17D69AA100A081E4 /* Build configuration list for PBXNativeTarget "DTPortalLibMac" */;
+			buildPhases = (
+				DE3AB26617D69AA100A081E4 /* Sources */,
+				DE3AB26717D69AA100A081E4 /* Frameworks */,
+				DE3AB26817D69AA100A081E4 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DTPortalLibMac;
+			productName = DTPortalLib;
+			productReference = DE3AB26A17D69AA100A081E4 /* libDTPortalLibMac.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DE3AB26217D69AA100A081E4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = "Smells Like Donkey, Inc.";
+			};
+			buildConfigurationList = DE3AB26517D69AA100A081E4 /* Build configuration list for PBXProject "DTPortalLib" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DE3AB26117D69AA100A081E4;
+			productRefGroup = DE3AB26B17D69AA100A081E4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				DE3AB26917D69AA100A081E4 /* DTPortalLibMac */,
+				DE13BE69185648F9008721A7 /* DTPortalLibiOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DE13BE6A185648F9008721A7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE13BE6B185648F9008721A7 /* DTPortalCommon.cpp in Sources */,
+				DE83B2F11908828E00DBCC2A /* DTPortalAppStoreValidator.cpp in Sources */,
+				DE83B2ED1907FBD300DBCC2A /* zeromem.c in Sources */,
+				DE13BE6C185648F9008721A7 /* DTPortalHighScores.cpp in Sources */,
+				DE996D7818FDD26900217BC4 /* DTPortalStrings.cpp in Sources */,
+				DEFBB70A1861FDC6001CBD72 /* error.c in Sources */,
+				DE13BE6D185648F9008721A7 /* DTPortalSDK.cpp in Sources */,
+				DE13BE6E185648F9008721A7 /* DTPortalTasks.cpp in Sources */,
+				DEFBB6F31861F66F001CBD72 /* crypt_argchk.c in Sources */,
+				DEFBB71A1861FDC6001CBD72 /* strbuffer.c in Sources */,
+				DEFBB7081861FDC6001CBD72 /* dump.c in Sources */,
+				DEFBB7141861FDC6001CBD72 /* load.c in Sources */,
+				DEFBB6DF1861EE39001CBD72 /* base64_decode.c in Sources */,
+				DE13BE6F185648F9008721A7 /* DTPortalNetwork.cpp in Sources */,
+				DEFBB71E1861FDC6001CBD72 /* strconv.c in Sources */,
+				DEFBB7181861FDC6001CBD72 /* pack_unpack.c in Sources */,
+				DEFBB70C1861FDC6001CBD72 /* hashtable.c in Sources */,
+				DEFBB6EB1861EE7C001CBD72 /* sha256.c in Sources */,
+				DEFBB7201861FDC6001CBD72 /* utf.c in Sources */,
+				DE83B2EA19055A7A00DBCC2A /* aes.c in Sources */,
+				DE13BEF8185648F9008721A7 /* DTPortalTextBlob.cpp in Sources */,
+				DEFBB7161861FDC6001CBD72 /* memory.c in Sources */,
+				DEFBB7241861FDC6001CBD72 /* value.c in Sources */,
+				DEFBB6E11861EE39001CBD72 /* base64_encode.c in Sources */,
+				DE13BEF9185648F9008721A7 /* DTPortalAnalytics.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DE3AB26617D69AA100A081E4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE8CFE2117D69B0300162F3A /* DTPortalCommon.cpp in Sources */,
+				DE83B2F01908828E00DBCC2A /* DTPortalAppStoreValidator.cpp in Sources */,
+				DE83B2EC1907FBD300DBCC2A /* zeromem.c in Sources */,
+				DE8CFE2317D69B0300162F3A /* DTPortalHighScores.cpp in Sources */,
+				DE996D7718FDD26900217BC4 /* DTPortalStrings.cpp in Sources */,
+				DEFBB7091861FDC6001CBD72 /* error.c in Sources */,
+				DE8CFE2517D69B0300162F3A /* DTPortalSDK.cpp in Sources */,
+				DE8CFE2717D69B0300162F3A /* DTPortalTasks.cpp in Sources */,
+				DEFBB6F21861F66F001CBD72 /* crypt_argchk.c in Sources */,
+				DEFBB7191861FDC6001CBD72 /* strbuffer.c in Sources */,
+				DEFBB7071861FDC6001CBD72 /* dump.c in Sources */,
+				DEFBB7131861FDC6001CBD72 /* load.c in Sources */,
+				DEFBB6DE1861EE39001CBD72 /* base64_decode.c in Sources */,
+				DE8CFE2B17D69B7500162F3A /* DTPortalNetwork.cpp in Sources */,
+				DEFBB71D1861FDC6001CBD72 /* strconv.c in Sources */,
+				DEFBB7171861FDC6001CBD72 /* pack_unpack.c in Sources */,
+				DEFBB70B1861FDC6001CBD72 /* hashtable.c in Sources */,
+				DEFBB6EA1861EE7C001CBD72 /* sha256.c in Sources */,
+				DEFBB71F1861FDC6001CBD72 /* utf.c in Sources */,
+				DE83B2E919055A7A00DBCC2A /* aes.c in Sources */,
+				DE254E7017E11DDB002C11B1 /* DTPortalTextBlob.cpp in Sources */,
+				DEFBB7151861FDC6001CBD72 /* memory.c in Sources */,
+				DEFBB7231861FDC6001CBD72 /* value.c in Sources */,
+				DEFBB6E01861EE39001CBD72 /* base64_encode.c in Sources */,
+				DE254E7417E134AF002C11B1 /* DTPortalAnalytics.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		DE13BF8C185648F9008721A7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					armv7s,
+					armv7,
+				);
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				EXECUTABLE_PREFIX = lib;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				PRODUCT_NAME = DTPortalLibiOS;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "armv7 armv7s";
+			};
+			name = Debug;
+		};
+		DE13BF8D185648F9008721A7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = (
+					armv7s,
+					armv7,
+				);
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				EXECUTABLE_PREFIX = lib;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				PRODUCT_NAME = DTPortalLibiOS;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphonesimulator iphoneos";
+				VALID_ARCHS = "armv7 armv7s";
+			};
+			name = Release;
+		};
+		DE3AB26C17D69AA100A081E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = /Library/Frameworks;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+					LTC_NO_ASM,
+					LTC_SHA256,
+					LTC_BASE64,
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					/usr/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = /usr/include/lib;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SUPPORTED_PLATFORMS = "$(inherited)";
+				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/../..";
+			};
+			name = Debug;
+		};
+		DE3AB26D17D69AA100A081E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = /Library/Frameworks;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					LTC_NO_ASM,
+					LTC_SHA256,
+					LTC_BASE64,
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					/usr/include,
+					/usr/local/include,
+				);
+				LIBRARY_SEARCH_PATHS = /usr/include/lib;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+				SUPPORTED_PLATFORMS = "$(inherited)";
+				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/../..";
+			};
+			name = Release;
+		};
+		DE3AB26F17D69AA100A081E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				EXECUTABLE_PREFIX = lib;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				HEADER_SEARCH_PATHS = (
+					/usr/include,
+					/usr/local/include,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = macosx;
+				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/../..";
+				VALID_ARCHS = "i386 x86_64";
+			};
+			name = Debug;
+		};
+		DE3AB27017D69AA100A081E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				EXECUTABLE_PREFIX = lib;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				HEADER_SEARCH_PATHS = (
+					/usr/include,
+					/usr/local/include,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = macosx;
+				USER_HEADER_SEARCH_PATHS = "$(PROJECT_DIR)/../..";
+				VALID_ARCHS = "i386 x86_64";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DE13BF8B185648F9008721A7 /* Build configuration list for PBXNativeTarget "DTPortalLibiOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE13BF8C185648F9008721A7 /* Debug */,
+				DE13BF8D185648F9008721A7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DE3AB26517D69AA100A081E4 /* Build configuration list for PBXProject "DTPortalLib" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE3AB26C17D69AA100A081E4 /* Debug */,
+				DE3AB26D17D69AA100A081E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DE3AB26E17D69AA100A081E4 /* Build configuration list for PBXNativeTarget "DTPortalLibMac" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE3AB26F17D69AA100A081E4 /* Debug */,
+				DE3AB27017D69AA100A081E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DE3AB26217D69AA100A081E4 /* Project object */;
+}

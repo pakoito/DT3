@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\3rdParty">
+      <UniqueIdentifier>{25e1ef29-5ec2-488b-b063-7fde6f5fbbb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3rdParty\lpng151">
+      <UniqueIdentifier>{3a2e2370-a62f-44fb-991c-2d4e5ac5f881}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3rdParty\zlib-1.2.5">
+      <UniqueIdentifier>{f5d09db2-7ffa-4c01-9694-e672189e5818}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\3rdParty\lpng151\png.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngerror.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngget.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngmem.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngpread.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngread.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngrio.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngrtran.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngrutil.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngset.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngtrans.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngwio.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngwrite.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngwtran.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\lpng151\pngwutil.c">
+      <Filter>Source Files\3rdParty\lpng151</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\inflate.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\inftrees.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\trees.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\uncompr.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\zutil.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\adler32.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\compress.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\crc32.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\deflate.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\gzclose.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\gzlib.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\gzread.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\gzwrite.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\infback.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\3rdParty\zlib-1.2.5\inffast.c">
+      <Filter>Source Files\3rdParty\zlib-1.2.5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ImageTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Image.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ImageTree.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

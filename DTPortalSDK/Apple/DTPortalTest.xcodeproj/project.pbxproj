@@ -1,0 +1,316 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		DE8CFE3117D6A18400162F3A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE8CFE3017D6A18400162F3A /* main.cpp */; };
+		DE996D8A18FDD89D00217BC4 /* libDTPortalLibMac.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE996D8218FDD62B00217BC4 /* libDTPortalLibMac.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		DE996D8118FDD62B00217BC4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DE996D7C18FDD62B00217BC4 /* DTPortalLib.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DE3AB26A17D69AA100A081E4;
+			remoteInfo = DTPortalLibMac;
+		};
+		DE996D8318FDD62B00217BC4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DE996D7C18FDD62B00217BC4 /* DTPortalLib.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = DE13BF8E185648F9008721A7;
+			remoteInfo = DTPortalLibiOS;
+		};
+		DE996D8818FDD89700217BC4 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = DE996D7C18FDD62B00217BC4 /* DTPortalLib.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = DE3AB26917D69AA100A081E4;
+			remoteInfo = DTPortalLibMac;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		DE3AB25317D69A5900A081E4 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		DE3AB25517D69A5900A081E4 /* DTPortalTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DTPortalTest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE8CFE3017D6A18400162F3A /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DE996D7C18FDD62B00217BC4 /* DTPortalLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = DTPortalLib.xcodeproj; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		DE3AB25217D69A5900A081E4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE996D8A18FDD89D00217BC4 /* libDTPortalLibMac.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		DE3AB24C17D69A5900A081E4 = {
+			isa = PBXGroup;
+			children = (
+				DE8CFE2F17D6A18400162F3A /* DTPortalTest */,
+				DE3AB25617D69A5900A081E4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		DE3AB25617D69A5900A081E4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DE3AB25517D69A5900A081E4 /* DTPortalTest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		DE8CFE2F17D6A18400162F3A /* DTPortalTest */ = {
+			isa = PBXGroup;
+			children = (
+				DE996D7C18FDD62B00217BC4 /* DTPortalLib.xcodeproj */,
+				DE8CFE3017D6A18400162F3A /* main.cpp */,
+			);
+			name = DTPortalTest;
+			path = ../DTPortalTest;
+			sourceTree = "<group>";
+		};
+		DE996D7D18FDD62B00217BC4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				DE996D8218FDD62B00217BC4 /* libDTPortalLibMac.a */,
+				DE996D8418FDD62B00217BC4 /* libDTPortalLibiOS.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		DE3AB25417D69A5900A081E4 /* DTPortalTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = DE3AB25E17D69A5900A081E4 /* Build configuration list for PBXNativeTarget "DTPortalTest" */;
+			buildPhases = (
+				DE3AB25117D69A5900A081E4 /* Sources */,
+				DE3AB25217D69A5900A081E4 /* Frameworks */,
+				DE3AB25317D69A5900A081E4 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				DE996D8918FDD89700217BC4 /* PBXTargetDependency */,
+			);
+			name = DTPortalTest;
+			productName = DTPortalTest;
+			productReference = DE3AB25517D69A5900A081E4 /* DTPortalTest */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		DE3AB24D17D69A5900A081E4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Smells Like Donkey, Inc.";
+			};
+			buildConfigurationList = DE3AB25017D69A5900A081E4 /* Build configuration list for PBXProject "DTPortalTest" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DE3AB24C17D69A5900A081E4;
+			productRefGroup = DE3AB25617D69A5900A081E4 /* Products */;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = DE996D7D18FDD62B00217BC4 /* Products */;
+					ProjectRef = DE996D7C18FDD62B00217BC4 /* DTPortalLib.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+				DE3AB25417D69A5900A081E4 /* DTPortalTest */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		DE996D8218FDD62B00217BC4 /* libDTPortalLibMac.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libDTPortalLibMac.a;
+			remoteRef = DE996D8118FDD62B00217BC4 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		DE996D8418FDD62B00217BC4 /* libDTPortalLibiOS.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libDTPortalLibiOS.a;
+			remoteRef = DE996D8318FDD62B00217BC4 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin PBXSourcesBuildPhase section */
+		DE3AB25117D69A5900A081E4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DE8CFE3117D6A18400162F3A /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		DE996D8918FDD89700217BC4 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = DTPortalLibMac;
+			targetProxy = DE996D8818FDD89700217BC4 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		DE3AB25C17D69A5900A081E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = /Library/Frameworks;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					/usr/local/include,
+					/usr/include,
+					"$(PROJECT_DIR)/../DTPortalLib/3rdParty/cryptopp562",
+					"$(PROJECT_DIR)/../..",
+				);
+				LIBRARY_SEARCH_PATHS = /usr/include/lib;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		DE3AB25D17D69A5900A081E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = /Library/Frameworks;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_CPP_EXCEPTIONS = NO;
+				GCC_ENABLE_CPP_RTTI = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					/usr/local/include,
+					/usr/include,
+					"$(PROJECT_DIR)/../DTPortalLib/3rdParty/cryptopp562",
+					"$(PROJECT_DIR)/../..",
+				);
+				LIBRARY_SEARCH_PATHS = /usr/include/lib;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		DE3AB25F17D69A5900A081E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				HEADER_SEARCH_PATHS = "$(inherited)";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		DE3AB26017D69A5900A081E4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++0x";
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				HEADER_SEARCH_PATHS = "$(inherited)";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DE3AB25017D69A5900A081E4 /* Build configuration list for PBXProject "DTPortalTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE3AB25C17D69A5900A081E4 /* Debug */,
+				DE3AB25D17D69A5900A081E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		DE3AB25E17D69A5900A081E4 /* Build configuration list for PBXNativeTarget "DTPortalTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DE3AB25F17D69A5900A081E4 /* Debug */,
+				DE3AB26017D69A5900A081E4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DE3AB24D17D69A5900A081E4 /* Project object */;
+}
